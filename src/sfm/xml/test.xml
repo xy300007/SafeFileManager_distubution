@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<SafeFileManager>
+  <SMTUser userName="F539F9C17C0A66484A08B7C9CB5D3C839E09777B2C107EA9032AD3BD224565BA2B6954AF8AFBE250403325BD2B07D386" password="F539F9C17C0A66484A08B7C9CB5D3C839E09777B2C107EA9032AD3BD224565BA2B6954AF8AFBE250403325BD2B07D386">
+    <SafeFile fileName="[Java核心技术(原书第8版)卷I_基础知识].（美）昊斯特曼.扫描版.pdf" fileSize="96005860" storeTime="2014-02-10 19:52:29" storeName="file1392033149468"/>
+    <SafeFile fileName="汇编语言-王爽.pdf" fileSize="35475702" storeTime="2014-02-13 19:01:52" storeName="file1392289312399"/>
+    <SafeFile fileName="UNIX&amp;Linux 系统管理技术手册(第四版)英文版.pdf" fileSize="15906577" storeTime="2014-02-13 21:24:41" storeName="file1392297881894"/>
+    <SafeFile fileName="GPU高性能编程CUDA实战.pdf" fileSize="46919855" storeTime="2014-02-13 21:26:03" storeName="file1392297963947"/>
+    <SafeFile fileName="WPS演示.lnk" fileSize="1349" storeTime="2014-02-13 21:35:27" storeName="file1392298527858"/>
+    <SafeFile fileName="java加密与解密的艺术.pdf" fileSize="45822327" storeTime="2014-02-14 15:11:00" storeName="file1392361860647"/>
+    <SafeFile fileName="游戏王.Lnk" fileSize="709" storeTime="2014-02-14 16:45:00" storeName="file1392367500834"/>
+  </SMTUser>
+</SafeFileManager>
